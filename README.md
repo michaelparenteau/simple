@@ -1,7 +1,7 @@
 simple
 ======
 
-A responsive github pages theme. [Fork it](http://github.com/michaelparenteau/simple/fork_select) and use it on your own site.
+A responsive github pages theme. [Fork it](http://github.com/michaelparenteau/simple/fork_select) and use it on your own site. Here is a [demo](http://michaelparenteau.github.com/simple)
 
 Simple screenshot:
 
